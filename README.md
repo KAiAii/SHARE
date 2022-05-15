@@ -1,2 +1,6 @@
 # SHARE
-Just share my private code or other people's code I modified.
+本项目是我把别人的一个lstm处理电荷预测的修改成我们的光伏预测项目，删删改改很多。只保留了重要的，与我们的项目相关的文件。
+
+分别用五个模型进行训练，然后做了一个对比。
+
+欢迎评论留言。
